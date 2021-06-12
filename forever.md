@@ -6,6 +6,14 @@ Implements https://tetris.wiki/Playing_forever
 bash start.sh -l 777
 ```
 
+## Demo
+
+![Forever demo](/doc/pics/forever.gif)
+
+[Higher FPS demo](/doc/pics/forever.mp4)
+
+### Results
+
 ```
 game finish!! elapsed time: 180.127/game_time: 180
 
