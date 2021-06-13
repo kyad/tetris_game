@@ -1,6 +1,10 @@
 # Forever mode
 
+![Forever mode](/doc/pics/forever.png)
+
 Implements https://tetris.wiki/Playing_forever
+
+## How to run
 
 ```
 bash start.sh -l 777
